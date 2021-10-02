@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fad1979
+- 👋 Hi, I’m Farhad Shamari
 - 👀 I’m interested in c c++ vc
 - 🌱 I’m currently learning pyton
 - 💞️ I’m looking to collaborate on ...
